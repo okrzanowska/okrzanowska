@@ -8,7 +8,7 @@
 
 - **INF.03** z wynikiem 91%.
 
-<p>W tym roku zdaję maturę oraz mam zamiar rozpocząć studia inżynierskie.</p> 
+<p>W tym roku mam zamiar rozpocząć studia inżynierskie.</p> 
 
 <h3>☎ Skontaktuj się ze mną:</h3>
 <p>
@@ -26,6 +26,6 @@
 
 - 🏋🏻‍♀️ Kulturystyka
 
-- 🎨 Sztuka
+- 📕 Literatura
  
  
