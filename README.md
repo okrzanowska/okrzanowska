@@ -1,14 +1,8 @@
 <h1>📖 O mnie</h1>
 
-<h3>Cześć 👋, nazywam się Oliwia. Mam 19 lat.</h3>
+<h3>Cześć 👋, nazywam się Oliwia.</h3>
 
-<p>Ukończyłam <b>technikum informatyczne</b> i zdobyłam kwalifikacje;</p>
-
-- **INF.02** z wynikiem 88%,
-
-- **INF.03** z wynikiem 91%.
-
-<p>W tym roku mam zamiar rozpocząć studia inżynierskie.</p> 
+<p>Mam 19 lat. Studiuję informatykę.</p>
 
 <h3>☎ Skontaktuj się ze mną:</h3>
 <p>
